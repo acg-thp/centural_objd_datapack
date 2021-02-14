@@ -1,0 +1,1 @@
+execute as @e[tag=sky_hotel,limit=1] at @s run data modify storage city:sky_city position set from entity @s Pos
